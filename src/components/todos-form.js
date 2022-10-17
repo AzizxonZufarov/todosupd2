@@ -34,7 +34,7 @@ const TodosForm = () => {
             </div>
                 <button className="btn btn-success">Add</button>
           </form>
-
+        <div id="status">1</div>
       </div>
     )
 }
